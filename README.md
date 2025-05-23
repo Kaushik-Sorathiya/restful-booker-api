@@ -29,7 +29,7 @@ restful-booker-api/
 │           │   └── BaseTest.java
 │           └── tests/
 │               └── BookingTests.java
-├── target/
+├── test-output/
 │   └── ExtentReport.html
 ├── Jenkinsfile
 ├── pom.xml
